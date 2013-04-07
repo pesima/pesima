@@ -1,1 +1,1 @@
-* Tajul Azhar bin Mohd Tajul Ariffin <pislisSniflis@gmail.com>
+* Tajul Azhar bin Mohd Tajul Ariffin <pislisSniflis{at}gmail.com>

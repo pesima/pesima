@@ -1,8 +1,8 @@
-
 Peserta
 =======
 
 Senarai peserta:
 
  * Hariadi Hinta <diperakui{at}gmail.com>
- * Mohd Sulaiman <mohd.sulaiman{at}sudirman.info
+ * Mohamad Zaki <mohdzaki{at}gmail.com>
+ * Mohd Sulaiman <mohd.sulaiman{at}sudirman.info>

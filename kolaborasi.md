@@ -12,3 +12,4 @@ Senarai peserta:
  * azlin ramli (azlin {at} gmail.com
  * Mohd Sulaiman <mohd.sulaiman{at}sudirman.info
  * Ramani ramani_g{at}hotmail.com
+ * Mohd Rasydan <rasydan{at}gmail.com>

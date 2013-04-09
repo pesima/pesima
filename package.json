@@ -1,0 +1,30 @@
+{
+  "name": "pesima-node",
+  "preferGlobal": true,
+  "description": "Membuat rangka projek berdasarkan Twitter Bootstrap dengan Node.js",
+  "author": "Hariadi Hinta <diperakui@yahoo.com>",
+  "version": "0.0.1",
+  "bin": {
+    "pesima": "./bin/pesima-node"
+  },
+  "dependencies": {
+    "mkdirp": "0.3.0",
+    "fs.extra": ""
+  },
+  "keywords": ["express", "generator", "twitter", "bootstrap"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pesima/pesima.git"
+  },
+  "bugs": {
+    "email": "pesima@groups.facebook.com",
+    "url": "http://github.com/pesima/pesima/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT +no-false-attribs",
+      "url": "https://github.com/pesima/pesima/master/LICENSE.md"
+    }
+  ],
+  "engines": { "node": "*" }
+}

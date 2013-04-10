@@ -3,9 +3,17 @@ pesima-node
 
 Aplikasi ini membuatkan template projek dengan pantas seperti landing page, documentation page menggunakan Twitter Bootstrap dan Node.js (pada masa ini hanya support express template)
 
-## Pemasangan (SILA AMBIL PERHATIAN, APLIKASI BELUM DIMASUKKAN KE DALAM NPM - Buat pemasangan melalui Git)
+## Pemasangan (Buat masa ini sila buat pemasangan melalui Git - Kaedah 2)
 
-  `$ npm install -g pesima-node`
+Kaedah 1:
+
+  `$ npm install -g https://github.com/pesima/pesima/tree/pembangunan`
+  
+Kaedah 2:
+
+  1. `$ git clone https://github.com/pesima/pesima.git`
+  2. `cd pesima && git checkout pembangunan`
+  3. `npm install`
   
 ## Panduan Penggunaan
 
